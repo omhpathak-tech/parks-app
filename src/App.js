@@ -1,24 +1,22 @@
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-
+import Search from './components/Search'
+import SearchPark from './components/SearchPark'
+import ParkCards from './components/ParkCards';
+import Webcam from './components/Webcam';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h4 className="header"> NPS App </h4>
+    <Search id = "Search">
+    </Search>
+    <SearchPark></SearchPark>
+    
+    <ParkCards></ParkCards>
+    <Webcam></Webcam>
     </div>
+ 
   );
 }
 

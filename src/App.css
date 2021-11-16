@@ -1,6 +1,15 @@
 .App {
   text-align: center;
 }
+.Search {
+  text-align: center;
+}
+.header h1{
+  color: rgb(99, 33, 17); /* or hexidecimal */
+}
+.background {
+  background-color: #ffffff;
+}
 
 .App-logo {
   height: 40vmin;
