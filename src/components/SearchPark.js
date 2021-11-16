@@ -94,7 +94,7 @@ export default function SearchPark() {
     </React.Fragment>
   );
 }
-
+//parks
 
 // list of parks 
 // get the list of parks using the API 
