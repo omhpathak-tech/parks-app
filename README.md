@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# National Parks App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project makes use of the National Parks API. 
 
 ## Available Scripts
 
