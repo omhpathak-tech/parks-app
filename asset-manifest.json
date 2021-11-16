@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/parks-app/static/css/main.9bfbfedd.chunk.css",
+    "main.js": "/parks-app/static/js/main.f4029c6a.chunk.js",
+    "main.js.map": "/parks-app/static/js/main.f4029c6a.chunk.js.map",
+    "runtime-main.js": "/parks-app/static/js/runtime-main.38a87e00.js",
+    "runtime-main.js.map": "/parks-app/static/js/runtime-main.38a87e00.js.map",
+    "static/js/2.1c4a649c.chunk.js": "/parks-app/static/js/2.1c4a649c.chunk.js",
+    "static/js/2.1c4a649c.chunk.js.map": "/parks-app/static/js/2.1c4a649c.chunk.js.map",
+    "static/js/3.297c4944.chunk.js": "/parks-app/static/js/3.297c4944.chunk.js",
+    "static/js/3.297c4944.chunk.js.map": "/parks-app/static/js/3.297c4944.chunk.js.map",
+    "index.html": "/parks-app/index.html",
+    "static/css/main.9bfbfedd.chunk.css.map": "/parks-app/static/css/main.9bfbfedd.chunk.css.map",
+    "static/js/2.1c4a649c.chunk.js.LICENSE.txt": "/parks-app/static/js/2.1c4a649c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/parks-app/static/media/logo.6ce24c58.svg",
+    "static/media/npslogo.454c82d0.jpg": "/parks-app/static/media/npslogo.454c82d0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38a87e00.js",
+    "static/js/2.1c4a649c.chunk.js",
+    "static/css/main.9bfbfedd.chunk.css",
+    "static/js/main.f4029c6a.chunk.js"
+  ]
+}
